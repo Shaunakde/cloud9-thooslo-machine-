@@ -1,0 +1,26 @@
+
+  {
+    
+  "server": {
+    "protocol": "https",
+    "host": "thooslo-com-shaunakde.c9.io"
+  },
+ "google": {
+    "key":"39009029743-veaeooi4v9ooirabeseujn8u2ohjbqf7.apps.googleusercontent.com",
+    "secret":"kim7JzoD3zhuu58x5MnxDTU6",
+    "state":"xxs",
+    "access_type":"offline",
+    "custom_parameters": ["access_type","state"],
+    "scope":["profile","email"],
+    "callback": "/users"
+  },
+  "twitter":{
+    "request_url": "https://api.twitter.com/oauth/request_token",
+    "authorize_url": "https://api.twitter.com/oauth/authenticate",
+    "access_url": "https://api.twitter.com/oauth/access_token",
+    "oauth": 1,
+    "secret":"mAM6ceKqI2WRoGuBMqPfzzSaI1Xq041rhUDaIiKM6NE9Kq2tVh",
+    "key":"9EkTpqtxXVQ5FCIF9peeLxPWt",
+    "callback":"/users"
+  }
+  }

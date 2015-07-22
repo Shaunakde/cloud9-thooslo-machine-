@@ -1,0 +1,4 @@
+Note: Currently using mongodb 1.4 (latest is 2.x) 
+When mongoskin fixes its driver support, move to it
+
+{"web":{"auth_uri":"https://accounts.google.com/o/oauth2/auth","client_secret":"499HNxeOKkUDRgAvdJ2AgMKc","token_uri":"https://accounts.google.com/o/oauth2/token","client_email":"39009029743-veaeooi4v9ooirabeseujn8u2ohjbqf7@developer.gserviceaccount.com","redirect_uris":["https://thooslo-com-shaunakde.c9.io/oauth2callback"],"client_x509_cert_url":"https://www.googleapis.com/robot/v1/metadata/x509/39009029743-veaeooi4v9ooirabeseujn8u2ohjbqf7@developer.gserviceaccount.com","client_id":"39009029743-veaeooi4v9ooirabeseujn8u2ohjbqf7.apps.googleusercontent.com","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","javascript_origins":["https://thooslo-com-shaunakde.c9.io/"]}}
